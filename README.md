@@ -9,7 +9,7 @@ npm install jose
 ---
 
 ### /app/api/token
-![]()
+![](https://imgur.com/0vDu9ro.png)
 
 ```bash
 import { SignJWT } from "jose";
